@@ -12,7 +12,7 @@ namespace GoogleLoginTest.Controllers
         [HttpGet]
         public string Test()
         {
-            TestObject testObject = new TestObject("test", 1);
+            TestObject testObject = new TestObject("api is geüpdate", 1);
             string json = JsonConvert.SerializeObject(testObject);
             return json;
         }

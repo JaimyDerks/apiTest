@@ -7006,11 +7006,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaimy\\source\\repos\\GoogleLoginTest\\GoogleLoginTest\\GoogleLoginTest.csproj",
+      "projectUniqueName": "C:\\Users\\jaimy\\OneDrive\\docs\\apiTest\\GoogleLoginTest\\GoogleLoginTest.csproj",
       "projectName": "GoogleLoginTest",
-      "projectPath": "C:\\Users\\jaimy\\source\\repos\\GoogleLoginTest\\GoogleLoginTest\\GoogleLoginTest.csproj",
+      "projectPath": "C:\\Users\\jaimy\\OneDrive\\docs\\apiTest\\GoogleLoginTest\\GoogleLoginTest.csproj",
       "packagesPath": "C:\\Users\\jaimy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaimy\\source\\repos\\GoogleLoginTest\\GoogleLoginTest\\obj\\",
+      "outputPath": "C:\\Users\\jaimy\\OneDrive\\docs\\apiTest\\GoogleLoginTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
